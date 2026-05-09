@@ -51,7 +51,7 @@ src
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/manishachoudhary11/todo-application.git
 ```
 
 ### Open Project
