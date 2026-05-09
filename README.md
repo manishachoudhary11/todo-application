@@ -114,9 +114,4 @@ Manisha Choudhary
 
 ---
 
-## License
 
-This project is open-source and available for learning purposes.
-## License
-
-This project is open source and available for learning purposes.
